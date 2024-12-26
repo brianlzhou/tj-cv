@@ -1,0 +1,7 @@
+# Project 1
+
+Program will create a "triangle.ppm" file, 800 pixels square with an image of a triangle with vertices generated randomly in the unit square ([0,1]x[0,1]) along with the triangle’s circumcircle, incircle, Euler line and the 9 point circle.
+
+Also draw the 9 point circle for the triangle. Make sure the Euler line is a line across the entire screen not just a segment!!
+
+Lines/Segments should be drawn with Bresenham’s algorithm, and circles should be drawn with a provided rasterized algorithm that uses only integer arithmetic.
